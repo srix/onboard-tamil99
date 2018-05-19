@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<keyboard id="tamil99">
+  <pane backgroundAlpha="0.3" backgroundBlue="0" backgroundGreen="0" backgroundRed="0" filename="tamil99-Alpha.svg" font="12" id="Alpha">
+    <key id="AB06" keycode="57" label="ல" shift_label="N" sticky="false"/>
+    <key id="AD08" keycode="31" label = "ன" shift_label="I" sticky="false"/>
+    <key id="AB02" keycode="53" label = "ஓ" shift_label="௴" sticky="false"/>
+    <key id="AC08" keycode="45" label = "ம" shift_label="&#8220;" sticky="false"/>
+    <key id="AE02" keycode="11" label = "2" shift_label="@" sticky="false"/>
+    <key id="AE03" keycode="12" label = "3" shift_label="#" sticky="false"/>
+    <key id="AD09" keycode="32" label = "ட" shift_label="[" sticky="false"/>
+    <key id="AE01" keycode="10" label = "1" shift_label="!" sticky="false"/>
+    <key id="AE06" keycode="15" label = "6" shift_label="^" sticky="false"/>
+    <key id="AE07" keycode="16" label = "7" shift_label="&amp;" sticky="false"/>
+    <key id="AE04" keycode="13" label = "4" shift_label="$" sticky="false"/>
+    <key id="AE05" keycode="14" label = "5" shift_label="%" sticky="false"/>
+    <key id="AD03" keycode="26" label = "ஊ" shift_label="ஜ" sticky="false"/>
+    <key id="AD02" keycode="25" label = "ஈ" shift_label="ஷ" sticky="false"/>
+    <key id="AD01" keycode="24" label = "ஆ" shift_label="ஸ" sticky="false"/>
+    <key id="AE09" keycode="18" label = "9" shift_label="(" sticky="false"/>
+    <key id="AD07" keycode="30" label = "ற" shift_label="U" sticky="false"/>
+    <key id="AD06" keycode="29" label = "ள" shift_label="ஸ்ரீ" sticky="false"/>
+    <key id="AD05" keycode="28" label = "ஏ" shift_label="க்ஷ" sticky="false"/>
+    <key id="AD04" keycode="27" label = "ஐ" shift_label="ஹ" sticky="false"/>
+    <key id="AB10" keycode="61" label = "ழ" shift_label="?" sticky="false"/>
+    <key id="AC11" keycode="48" label = "ய" shift_label="'" sticky="false"/>
+    <key id="AC10" keycode="47" label = "ந" shift_label=";"  sticky="false"/>
+    <key id="RCTL" label="Ctrl" modifier="control" sticky="true"/>
+    <key id="LCTL" label="Ctrl" modifier="control" sticky="true"/>
+    <key id="TAB" keycode="23" label="Tab" sticky="false"/>
+    <key id="LALT" label="Alt" modifier="mod1" sticky="true"/>
+    <key id="TLDE" keycode="49" sticky="false"/>
+    <key id="LSGT" keycode="94" sticky="false"/>
+    <key id="BKSP" keycode="22" label="⇦" sticky="false"/>
+    <key id="SPCE" keycode="65" sticky="false"/>
+    <key id="CAPS" label="CAPS" modifier="caps" sticky="true"/>
+    <key id="BKSL" keycode="51" sticky="false"/>
+    <key id="RTRN" keycode="36" label="Return" sticky="false"/>
+    <key id="AD10" keycode="33" label = "ண" shift_label="]" sticky="false"/>
+    <key id="AD11" keycode="34" label = "ச" shift_label="{" sticky="false"/>
+    <key id="AD12" keycode="35" label = "ஞ" shift_label="}" sticky="false"/>
+    <key id="AE11" keycode="20" label = "-" shift_label="_" sticky="false"/>
+    <key id="AE10" keycode="19" label = "0" shift_label=")" sticky="false"/>
+    <key id="AE12" keycode="21" label = "=" shift_label="+" sticky="false"/>
+    <key id="AC04" keycode="41" label = "." shift_label="ஃ" sticky="false"/>
+    <key id="AC05" keycode="42" label = "எ" shift_label="G" sticky="false"/>
+    <key id="AC06" keycode="43" label = "க" shift_label="H" sticky="false"/>
+    <key id="AC07" keycode="44" label = "ப" shift_label="J" sticky="false"/>
+    <key id="AB09" keycode="60" label = "." shift_label="&gt;" sticky="false"/>
+    <key id="AB08" keycode="59" label = "," shift_label="&lt;" sticky="false"/>
+    <key id="AC02" keycode="39" label = "இ" shift_label="௺" sticky="false"/>
+    <key id="AC03" keycode="40" label = "உ" shift_label="௸" sticky="false"/>
+    <key id="AB05" keycode="56" label = "ங" shift_label="௷" sticky="false"/>
+    <key id="MENU" keycode="117" label="Menu" sticky="false"/>
+    <key id="AE08" keycode="17" label = "8" shift_label="*" sticky="false"/>
+    <key id="RALT" label="Alt Gr" modifier="mod5" sticky="true"/>
+    <key id="AB01" keycode="52" label = "ஔ" shift_label="௳" sticky="false"/>
+    <key id="AC09" keycode="46" label = "த" shift_label=":" sticky="false"/>
+    <key id="AB03" keycode="54" label = "ஒ" shift_label="௵" sticky="false"/>
+    <key id="AC01" keycode="38" label = "அ" shift_label="௹" sticky="false"/>
+    <key id="LFSH" label="⇧" modifier="shift" sticky="true"/>
+    <key id="RWIN" keycode="116" label="Win" sticky="false"/>
+    <key id="AB04" keycode="55" label="வ" shift_label="௶" sticky="false"/>
+    <key id="RTSH" label="⇧" modifier="shift" sticky="true"/>
+    <key id="LWIN" label="Win" modifier="mod4" sticky="true"/>
+    <key id="AB07" keycode="58" label = "ர" shift_label="/" sticky="false"/>
+  </pane>
+  <pane backgroundAlpha="0.3" backgroundBlue="0.7" backgroundGreen="0.3" backgroundRed="0.3" filename="tamil99-Editing.svg" font="12" id="Editing">
+    <key id="KPDL" keycode="91" label="Del" sticky="false"/>
+    <key id="DOWN" keycode="104" label="↓" sticky="false"/>
+    <key id="KPSU" keycode="82" sticky="false"/>
+    <key id="KPDV" keycode="112" sticky="false"/>
+    <key id="HOME" keycode="97" label="Hm" sticky="false"/>
+    <key id="KP0" keycode="90" label="0" sticky="false"/>
+    <key id="KP1" keycode="87" label="1" sticky="false"/>
+    <key id="KP2" keycode="88" label="2" sticky="false"/>
+    <key id="KP3" keycode="89" label="3" sticky="false"/>
+    <key id="KP4" keycode="83" label="4" sticky="false"/>
+    <key id="KP5" keycode="84" label="5" sticky="false"/>
+    <key id="KP6" keycode="85" label="6" sticky="false"/>
+    <key id="KP7" keycode="79" label="7" sticky="false"/>
+    <key id="KP8" keycode="80" label="8" sticky="false"/>
+    <key id="KP9" keycode="81" label="9" sticky="false"/>
+    <key id="m5" label="Snippet
+5" macro="5" sticky="false"/>
+    <key id="m4" label="Snippet
+4" macro="4" sticky="false"/>
+    <key id="m7" label="Snippet
+7" macro="7" sticky="false"/>
+    <key id="m6" label="Snippet
+6" macro="6" sticky="false"/>
+    <key id="m1" label="Snippet
+1" macro="1" sticky="false"/>
+    <key id="m0" label="Snippet
+0" macro="0" sticky="false"/>
+    <key id="KPAD" keycode="86" sticky="false"/>
+    <key id="m2" label="Snippet
+2" macro="2" sticky="false"/>
+    <key id="DELE" keycode="107" label="Del" sticky="false"/>
+    <key id="m8" label="Snippet
+8" macro="8" sticky="false"/>
+    <key id="LEFT" keycode="100" label="←" sticky="false"/>
+    <key id="RGHT" keycode="102" label="→" sticky="false"/>
+    <key id="PGUP" keycode="99" label="Pg
+Up" sticky="false"/>
+    <key id="m3" label="Snippet
+3" macro="3" sticky="false"/>
+    <key id="KPEN" keycode="108" label="Ent" sticky="false"/>
+    <key id="KPMU" keycode="63" sticky="false"/>
+    <key id="END" keycode="103" label="End" sticky="false"/>
+    <key id="NMLK" label="Nm
+Lk" modifier="mod2" sticky="true"/>
+    <key id="PGDN" keycode="105" label="Pg
+Dn" sticky="false"/>
+    <key id="UP" keycode="98" label="↑" sticky="false"/>
+    <key id="INS" keycode="106" label="Ins" sticky="false"/>
+  </pane>
+  <pane backgroundAlpha="0.3" backgroundBlue="0.7" backgroundGreen="0.3" backgroundRed="0.6" filename="tamil99-Functions.svg" font="12" id="Functions">
+    <key id="F1" keysym="65470" label="F1" sticky="false"/>
+    <key id="F2" keysym="65471" label="F2" sticky="false"/>
+    <key id="F3" keysym="65472" label="F3" sticky="false"/>
+    <key id="F4" keysym="65473" label="F4" sticky="false"/>
+    <key id="F5" keysym="65474" label="F5" sticky="false"/>
+    <key id="F6" keysym="65475" label="F6" sticky="false"/>
+    <key id="F7" keysym="65476" label="F7" sticky="false"/>
+    <key id="F8" keysym="65477" label="F8" sticky="false"/>
+    <key id="F9" keysym="65478" label="F9" sticky="false"/>
+    <key id="settings" label="Settings" script="sokSettings" sticky="false"/>
+    <key id="Prnt" keysym="65377" label="Prnt" sticky="false"/>
+    <key id="Pause" keysym="65299" label="Pause" sticky="false"/>
+    <key id="ESC" keysym="65307" label="ESC" sticky="false"/>
+    <key id="switchButtons" label="Switch
+Buttons" script="switchButtons" sticky="false"/>
+    <key id="F12" keysym="65481" label="F12" sticky="false"/>
+    <key id="F10" keysym="65479" label="F10" sticky="false"/>
+    <key id="F11" keysym="65480" label="F11" sticky="false"/>
+    <key id="Scroll" keysym="65300" label="Scroll" sticky="false"/>
+  </pane>
+</keyboard>
